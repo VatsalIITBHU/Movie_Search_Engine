@@ -7,10 +7,10 @@ A responsive and interactive web-based movie search platform built using **HTML*
 
 ## 🚀 Features
 
-- 🔍 **Movie Search**: Search for any movie title (case-insensitive)
-- 🎞️ **Popular Suggestions**: Displayed on page load
-- 🪄 **Movie Details Popup**: Shows poster, plot, rating, genre, director, and cast
-- 💡 **Responsive Design**: Works across desktops, tablets, and mobile devices
+- **Movie Search**: Search for any movie title (case-insensitive)
+- **Popular Suggestions**: Displayed on page load
+- **Movie Details Popup**: Shows poster, plot, rating, genre, director, and cast
+- **Responsive Design**: Works across desktops, tablets, and mobile devices
 
 ---
 
@@ -40,18 +40,7 @@ cd movie-search-engine
 
 1. Go to [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
 2. Register for a free API key
-3. Open `script.js` and replace:
-```js
-const apiKey = "YOUR_OMDB_API_KEY";
-```
-with your real API key.
-
----
-
-## 📸 Demo
-
-- 🔗 Live Demo: [https://yourusername.github.io/movie-search-engine](https://yourusername.github.io/movie-search-engine)
-- 📂 GitHub Repo: [https://github.com/yourusername/movie-search-engine](https://github.com/yourusername/movie-search-engine)
+3. Add the key to the link to access the database
 
 ---
 
